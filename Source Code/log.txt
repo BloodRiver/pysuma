@@ -1,0 +1,70 @@
+[10/3/2019][22:23] Admin admin has logged in.
+[10/3/2019][22:23] Master admin admin logged out.
+[10/3/2019][22:24] Master admin admin has logged in.
+[10/3/2019][22:24] Master admin admin logged out.
+[10/3/2019][22:25] Master admin admin has logged in.
+[10/3/2019][22:25] Master admin admin logged out.
+[26/5/2019][12:40] Master admin admin has logged in.
+[26/5/2019][12:40] Master Admin admin has added 'apple' to the database.
+[26/5/2019][12:40] Master admin admin logged out.
+[26/5/2019][12:40] Account {} has been registered and added to database.
+[26/5/2019][12:41] Master admin admin has logged in.
+[26/5/2019][12:41] Master admin admin logged out.
+[26/5/2019][12:41] Customer Sajeed has logged in.
+[26/5/2019][12:41] Customer Sajeed has logged out.
+
+[26/5/2019][12:41] Master admin admin has logged in.
+[26/5/2019][12:42] Master Admin admin has added 'banana' to the database.
+[26/5/2019][12:42] Master admin admin logged out.
+[26/5/2019][12:42] Customer Sajeed has logged in.
+[26/5/2019][12:43] Customer Sajeed has logged out.
+[26/5/2019][12:43] Master admin admin has logged in.
+[26/5/2019][12:43] Master Admin admin has removed 'banana' from the database.
+[26/5/2019][12:43] Master admin admin logged out.
+[26/5/2019][12:43] Customer Sajeed has logged in.
+[26/5/2019][12:45] Customer Sajeed has logged in.
+[26/5/2019][12:45] Customer Sajeed has logged out.
+
+[26/5/2019][12:46] Customer Sajeed has logged in.
+[26/5/2019][12:46] Customer Sajeed has logged in.
+[26/5/2019][12:47] Customer Sajeed has logged in.
+[26/5/2019][12:48] Customer Sajeed has placed/edited their order.
+[26/5/2019][12:49] Master admin admin has logged in.
+[26/5/2019][12:49] Master admin admin logged out.
+[26/5/2019][12:51] Master admin admin has logged in.
+[26/5/2019][12:51] Master Admin admin has added 'banana' to the database.
+[26/5/2019][12:51] Master admin admin logged out.
+[26/5/2019][12:52] Customer Sajeed has logged out.
+[26/5/2019][12:53] Customer Sajeed has logged in.
+[26/5/2019][12:54] Customer Sajeed has placed/edited their order.
+[26/5/2019][12:54] Master admin admin has logged in.
+[26/5/2019][12:58] Master admin admin logged out.
+[26/5/2019][12:59] Customer Sajeed has logged in.
+[26/5/2019][12:59] Customer Sajeed has placed/edited their order.
+[26/5/2019][13:3] Master admin admin has logged in.
+[26/5/2019][13:6] Master Admin admin has confirmed that customer Sajeed's ordered item(s) have been delivered.
+[26/5/2019][13:7] Master admin admin logged out.
+[26/5/2019][13:7] Customer Sajeed has logged in.
+[26/5/2019][13:7] Customer Sajeed has placed/edited their order.
+[26/5/2019][13:7] Customer Sajeed has logged in.
+[26/5/2019][13:7] Customer Sajeed has logged out.
+[10/7/2021][17:47] Master admin admin has logged in.
+[10/7/2021][17:47] Master Admin admin has confirmed that customer Sajeed's ordered item(s) have been delivered.
+[10/7/2021][17:48] Master admin admin has removed Sajeed's account from the database.
+[10/7/2021][17:48] Master Admin admin has updated item 'apple' in the database.
+[10/7/2021][17:48] Master Admin admin has updated item 'banana' in the database.
+[10/7/2021][17:48] Master admin admin logged out.
+[10/7/2021][17:48] Account {} has been registered and added to database.
+[10/7/2021][17:48] Customer Sajeed has logged in.
+[10/7/2021][17:48] Customer Sajeed has placed/edited their order.
+[10/7/2021][17:48] Master admin admin has logged in.
+[10/7/2021][17:49] Master admin admin logged out.
+[10/7/2021][17:49] Master admin admin has logged in.
+[10/7/2021][17:50] Master admin admin logged out.
+[10/7/2021][17:51] Master admin admin has logged in.
+[10/7/2021][17:53] Master admin admin logged out.
+[10/7/2021][17:53] Master admin admin has logged in.
+[10/7/2021][17:53] Master Admin admin has confirmed that customer Sajeed's ordered item(s) have been delivered.
+[10/7/2021][17:54] Master admin admin has given adminship to Sajeed.
+[10/7/2021][17:54] Master admin admin has removed adminship from Sajeed.
+[10/7/2021][17:54] Master admin admin logged out.

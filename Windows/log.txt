@@ -1,0 +1,24 @@
+[10/3/2019][22:52] Master admin admin has logged in.
+[10/3/2019][22:53] Master admin admin logged out.
+[10/7/2021][17:43] Master admin admin has logged in.
+[10/7/2021][17:43] Master admin admin logged out.
+[10/7/2021][17:43] Account {} has been registered and added to database.
+[10/7/2021][17:44] Customer Sajeed has logged in.
+[10/7/2021][17:44] Customer Sajeed has logged out.
+
+[10/7/2021][17:44] Master admin admin has logged in.
+[10/7/2021][17:44] Master Admin admin has added 'apple' to the database.
+[10/7/2021][17:44] Master Admin admin has added 'banana' to the database.
+[10/7/2021][17:44] Master admin admin logged out.
+[10/7/2021][17:44] Customer Sajeed has logged in.
+[10/7/2021][17:45] Customer Sajeed has placed/edited their order.
+[10/7/2021][17:45] Master admin admin has logged in.
+[10/7/2021][17:46] Master admin admin logged out.
+[10/7/2021][18:3] Customer Sajeed has logged in.
+[10/7/2021][18:3] Customer Sajeed has logged out.
+[10/7/2021][18:3] Master admin admin has logged in.
+[10/7/2021][18:3] Master Admin admin has confirmed that customer Sajeed's ordered item(s) have been delivered.
+[10/7/2021][18:3] Master admin admin logged out.
+[10/7/2021][18:3] Customer Sajeed has logged in.
+[10/7/2021][18:3] Customer Sajeed has logged out.
+
