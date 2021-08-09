@@ -1,4 +1,4 @@
-Python Super Market V1.3:
+### Python Super Market V1.3:
 - See settings.json for admin username and password
 - Register and store account details in database
 - Login as customer and place order
