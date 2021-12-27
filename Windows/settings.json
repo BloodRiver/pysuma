@@ -1,6 +1,0 @@
-{
-    "hasher": "sha1",
-    "database": "pysuma.db",
-    "masteradmin": "admin",
-    "masteradminpassword": "admin"
-}
