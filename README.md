@@ -1,4 +1,10 @@
 ### Python Super Market V1.3:
+
+Python Super Market. A useless software but my pride and joy as I made one for the first time ever. I started learning Python in January 2017. Within 6 months, I became quite dexterous in the language and was able to make CLI applications while doing my best to make sure the code wouldn't ever be buggy or crash.
+After that, I shifted my focus to building GUIs and made my first ever GUI application. It's pretty basic but it works along with a database system which allows the program to retain the changes in data without losing data when the application is closed, or the computer is turned off.
+For now, it only works on Windows and Linux Devices. I hope to be able to improve it and make a mobile app version of it too someday.
+
+
 - See settings.json for admin username and password
 - Register and store account details in database
 - Login as customer and place order
